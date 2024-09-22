@@ -1,0 +1,8 @@
+com\mycompany\cinemamanagement\model\Sessao.class
+com\mycompany\cinemamanagement\model\Filme.class
+com\mycompany\cinemamanagement\model\Cliente.class
+com\mycompany\cinemamanagement\JakartaRestConfiguration.class
+com\mycompany\cinemamanagement\beans\ClienteBean.class
+com\mycompany\cinemamanagement\resources\JakartaEE10Resource.class
+com\mycompany\cinemamanagement\beans\SessaoBean.class
+com\mycompany\cinemamanagement\beans\FilmeBean.class
